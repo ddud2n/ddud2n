@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <p>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sujin0970">
+
+  <!--
     <h3 align="center">📚 Tech Stack 📚</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -34,6 +36,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
     </p>
+    -->
 </p>
 
 
