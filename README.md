@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-![ddud2nn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddud2nn&show_icons=true&theme=radical&count_private=true&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddud2nn&layout=compact&show_icons=true&theme=radical&count_private=true&hide=javascript,html)
+![ddud2nn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddud2nn&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddud2nn&layout=compact&show_icons=true&theme=radical&count_private=true&hide=javascript,html,css,scss)
 
 
