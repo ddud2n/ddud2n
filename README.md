@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20ddud2nn's%20GitHub%20😎&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20ddud2n's%20GitHub%20😎&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 <!--
 **ddud2nn/ddud2nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddud2nn&show_icons=true&theme=radical&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddud2nn&layout=compact&show_icons=true&theme=radical&hide=javascript,html,css,scss&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddud2n&show_icons=true&theme=radical&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddud2n&layout=compact&show_icons=true&theme=radical&hide=javascript,html,css,scss">
 </p>
